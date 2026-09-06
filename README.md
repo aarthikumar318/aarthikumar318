@@ -171,11 +171,6 @@ A full-stack AI platform for generating, editing, and organizing structured acad
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=aarthikumar318&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarthikumar318&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br/><br/>
-
 <img src="https://streak-stats.demolab.com?user=aarthikumar318&theme=tokyonight&hide_border=true" />
 
 </div>

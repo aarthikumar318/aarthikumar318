@@ -1,16 +1,20 @@
-## Hi there 👋
-
-<!--
-**aarthikumar318/aarthikumar318** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">Hi there, I'm Aarthi K 👋</h1> <h3 align="center">Aspiring Software Engineer | Full-Stack Developer | AI/ML Enthusiast</h3> <p align="center"> <a href="https://linkedin.com/in/aarthikumar318"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/aarthikumar318"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="mailto:aarthikumar318@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+scalable+applications+one+commit+at+a+time;Java+%7C+Python+%7C+JavaScript+%7C+React+%7C+Spring+Boot;Turning+ideas+into+real-world+software+solutions" alt="Typing SVG" /> </p>
+🚀 About Me
+🎓 B.E. in Computer Science and Engineering @ K.S.R College Of Engineering (2023 – 2027) — CGPA 8.45
+💻 Passionate about building scalable, real-world applications
+🤖 Currently exploring Generative AI and Machine Learning
+🌱 Strong foundation in OOP, DSA, REST APIs, and DBMS
+☁️ AWS Certified Cloud Practitioner
+📍 Based in Tamil Nadu, India
+📫 Reach me at aarthikumar318@gmail.com
+🛠️ Tech Stack
+<p align="center"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> </p>
+🌟 Featured Projects
+<table> <tr> <td width="50%" valign="top"> <h4>🤟 SignBridge — AI Sign Language Learning System</h4> <p><em>Python · Flask · OpenCV · MediaPipe · Machine Learning</em></p> <ul> <li>Real-time Indian Sign Language recognition for letters & numbers</li> <li>Achieved <b>98.82% recognition accuracy</b> after training on 100 samples per class</li> <li>Integrated speech-to-text, text-to-speech, and text-to-sign for accessibility</li> </ul> </td> <td width="50%" valign="top"> <h4>✍️ GenWrite — AI Academic Content Generator</h4> <p><em>React.js · Node.js/Express.js · Cohere AI API</em></p> <ul> <li>Full-stack platform generating structured research content from any topic</li> <li>Covers 5 sections: Abstract, Introduction, Methodology, Results, Conclusion</li> <li>Includes content history tracking and PDF export</li> </ul> </td> </tr> </table>
+💼 Experience
+Role	Organization	Duration
+GenAI Developer Intern	OneYes InfoTech Solutions, Chennai	Jun 2025
+Web Developer Intern	Corizo Company, Bangalore	Oct – Nov 2024
+📊 GitHub Stats
+<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=aarthikumar318&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarthikumar318&layout=compact&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=aarthikumar318&theme=tokyonight&hide_border=true" /> </p>
+<h3 align="center">🎓 Certifications</h3> <p align="center">AWS Certified Cloud Practitioner — April 2026</p> <p align="center">💬 "Let's connect, collaborate, and build something impactful together!"</p>

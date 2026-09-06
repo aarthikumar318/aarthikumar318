@@ -21,26 +21,78 @@
 </div>
 
 ---
+## 👨‍💻 About Me
 
-## 🧑‍💻 About Me
+<div align="center">
 
-```text
-╭────────────────────────────────────────────────────────────╮
-│                                                            │
-│  👋 Hi, I'm Aarthi K                                      │
-│                                                            │
-│  🎓 Computer Science & Engineering Student                │
-│  💻 Aspiring Software Engineer                             │
-│  🚀 Full-Stack Developer                                   │
-│  🤖 AI & Generative AI Enthusiast                          │
-│  🧠 DSA & Problem Solving Learner                          │
-│  ☁️ AWS Certified Cloud Practitioner                       │
-│                                                            │
-│  I enjoy transforming ideas into practical applications   │
-│  using modern software and AI technologies.               │
-│                                                            │
-╰────────────────────────────────────────────────────────────╯
-```
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🎓
+
+**CSE Student**
+
+B.E. Computer Science
+K.S.R College of Engineering
+
+</td>
+
+<td align="center" width="25%">
+
+### 💻
+
+**Developer**
+
+Full-Stack
+Web Development
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤖
+
+**AI Explorer**
+
+Generative AI
+Machine Learning
+
+</td>
+
+<td align="center" width="25%">
+
+### 🧠
+
+**Problem Solver**
+
+DSA
+Logical Thinking
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+> **I don't just learn technologies — I build with them.**
+
+I'm an aspiring **Software Engineer** passionate about turning ideas into practical, user-focused applications. I enjoy working across the stack, from crafting responsive interfaces to building backend services and experimenting with AI-powered solutions.
+
+My current journey revolves around **Java, React.js, Spring Boot, Node.js, Python, and Generative AI**, while continuously strengthening my problem-solving and DSA skills.
+
+<br/>
+
+<table>
+<tr>
+<td>🚀 <b>Build</b></td>
+<td>🧠 <b>Learn</b></td>
+<td>⚡ <b>Experiment</b></td>
+<td>📈 <b>Improve</b></td>
+</tr>
+</table>
+
+</div>
 
 ### 🎯 What I'm Focused On
 
@@ -283,63 +335,344 @@ A full-stack AI platform for generating, editing and organizing structured acade
 
 ---
 
-# 📈 My Developer Journey
-
-```text
-             ┌─────────────────────────┐
-             │      🎓 CSE Student     │
-             └────────────┬────────────┘
-                          │
-                          ▼
-             ┌─────────────────────────┐
-             │   💻 Web Development    │
-             └────────────┬────────────┘
-                          │
-                          ▼
-             ┌─────────────────────────┐
-             │   ⚛️ React + Node.js    │
-             └────────────┬────────────┘
-                          │
-                          ▼
-             ┌─────────────────────────┐
-             │ ☕ Java + Spring Boot    │
-             └────────────┬────────────┘
-                          │
-                          ▼
-             ┌─────────────────────────┐
-             │    🤖 AI / GenAI        │
-             └────────────┬────────────┘
-                          │
-                          ▼
-             ┌─────────────────────────┐
-             │   🚀 Software Engineer  │
-             └─────────────────────────┘
-```
-
----
-
-# 🔥 Current Mission
+# 🛣️ My Developer Journey
 
 <div align="center">
 
-```text
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║       🚀 BECOMING INDUSTRY-READY                        ║
-║                                                          ║
-║       ▸ Master DSA                                     ║
-║       ▸ Build production-ready applications             ║
-║       ▸ Strengthen Java & Backend Development            ║
-║       ▸ Explore Generative AI                            ║
-║       ▸ Contribute to Open Source                        ║
-║       ▸ Keep Learning & Building                        ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
+### `A journey of learning → building → experimenting → growing`
+
+<br/>
+
+<table>
+<tr>
+
+<td align="center" width="20%">
+
+### 🎓
+
+**2023**
+
+**The Beginning**
+
+Started my
+Computer Science
+Engineering journey.
+
+</td>
+
+<td align="center">➜</td>
+
+<td align="center" width="20%">
+
+### 🌐
+
+**2024**
+
+**Web Development**
+
+Started building
+responsive websites
+with HTML, CSS & JS.
+
+</td>
+
+<td align="center">➜</td>
+
+<td align="center" width="20%">
+
+### 🤖
+
+**2025**
+
+**AI + Full Stack**
+
+Explored Generative AI
+and built full-stack
+applications.
+
+</td>
+
+<td align="center">➜</td>
+
+<td align="center" width="20%">
+
+### ⚡
+
+**2026**
+
+**Level Up**
+
+Focused on DSA,
+Java, backend development
+and real-world projects.
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+---
+
+<div align="center">
+
+### 🌱 WHERE I STARTED
+
+`Learning the basics`
+
+⬇️
+
+### 💻 WHAT I BUILT
+
+`Websites → Full-Stack Apps → AI Applications`
+
+⬇️
+
+### 🧠 WHAT I'M LEARNING
+
+`DSA → Java → Spring Boot → Generative AI`
+
+⬇️
+
+### 🚀 WHERE I'M GOING
+
+**Software Engineer**
 
 </div>
 
 ---
+
+<div align="center">
+
+### ⚙️ My Growth Stack
+
+<br/>
+
+`HTML/CSS/JS`
+  →  
+`React`
+  →  
+`Node.js`
+  →  
+`Java`
+  →  
+`Spring Boot`
+  →  
+`AI`
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,spring,python,mysql&perline=9"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ The Journey Continues...
+
+<br/>
+
+**Learn something new.**
+**Build something useful.**
+**Solve something difficult.**
+**Become a better engineer.**
+
+<br/>
+
+`2023` ━━━━━━━ `2024` ━━━━━━━ `2025` ━━━━━━━ `2026` ━━━━━━━ `∞`
+
+</div>
+# 🎯 Current Mission
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Currently+building+my+engineering+foundation...;Learning+%E2%86%92+Building+%E2%86%92+Solving+%E2%86%92+Growing" />
+
+<br/><br/>
+
+> ### **“Don't just learn the technology. Build something with it.”**
+
+</div>
+
+<br/>
+
+<table align="center">
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>☕ Java & DSA</h3>
+
+<img src="https://img.shields.io/badge/FOCUS-CORE%20DEVELOPMENT-8B5CF6?style=flat-square"/>
+
+<br/><br/>
+
+```text
+Java
+├── OOP
+├── Collections
+└── Problem Solving
+
+DSA
+├── Arrays
+├── Strings
+├── Patterns
+└── Algorithms
+```
+
+**Goal →** Build stronger fundamentals and become confident in solving coding problems.
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>⚛️ Full-Stack Development</h3>
+
+<img src="https://img.shields.io/badge/FOCUS-BUILDING-6366F1?style=flat-square"/>
+
+<br/><br/>
+
+```text
+Frontend
+└── React.js
+
+Backend
+├── Spring Boot
+└── Node.js
+
+Database
+└── MySQL
+```
+
+**Goal →** Turn ideas into complete, responsive and practical applications.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🤖 AI & Generative AI</h3>
+
+<img src="https://img.shields.io/badge/FOCUS-EXPLORING-7C3AED?style=flat-square"/>
+
+<br/><br/>
+
+```text
+AI
+├── Generative AI
+├── Machine Learning
+└── AI APIs
+
+Projects
+├── SignBridge
+└── GenWrite
+```
+
+**Goal →** Explore how AI can solve real-world problems and improve applications.
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🚀 Career Growth</h3>
+
+<img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-4F46E5?style=flat-square"/>
+
+<br/><br/>
+
+```text
+✓ Learn fundamentals
+✓ Build projects
+→ Practice consistently
+→ Improve problem solving
+→ Become industry ready
+```
+
+**Goal →** Grow from a student developer into a confident Software Engineer.
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+## ⚡ The Mission
+
+<br/>
+
+<table>
+<tr>
+
+<td align="center">
+
+### 🧠
+
+**LEARN**
+
+Understand
+the fundamentals
+
+</td>
+
+<td align="center">
+
+### 🛠️
+
+**BUILD**
+
+Create
+real applications
+
+</td>
+
+<td align="center">
+
+### 🧩
+
+**SOLVE**
+
+Practice
+real problems
+
+</td>
+
+<td align="center">
+
+### 📈
+
+**GROW**
+
+Become
+a better engineer
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<img src="https://img.shields.io/badge/LEARN-→-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BUILD-→-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SOLVE-→-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GROW-🚀-4F46E5?style=for-the-badge"/>
+
+<br/><br/>
+
+### 🌱 Progress over perfection.
+
+`One concept` → `One problem` → `One project` → `One step forward`
+
+</div>
 
 # 🤝 Let's Connect
 

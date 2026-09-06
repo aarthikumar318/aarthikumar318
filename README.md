@@ -242,17 +242,6 @@ A full-stack AI platform for generating, editing and organizing structured acade
 </div>
 
 ---
-
-# 🐍 Contribution Journey
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/aarthikumar318/aarthikumar318/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-
-</div>
-
----
-
 # 💼 Experience
 
 <div align="center">

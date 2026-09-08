@@ -60,7 +60,7 @@ Machine Learning
 ### 🧠
 **Problem Solver**
 
-DSA
+Data Structure and Algorithm
 Logical Thinking
 
 </td>

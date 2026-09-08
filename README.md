@@ -382,13 +382,6 @@ Projects → SignBridge · GenWrite
 
 <br/>
 
-### 🌱 Progress over perfection.
-`One concept` → `One problem` → `One project` → `One step forward`
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">

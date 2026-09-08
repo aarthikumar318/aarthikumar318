@@ -297,11 +297,9 @@ DSA, Java, backend & real-world projects
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Currently+building+my+engineering+foundation...;Learning+%E2%86%92+Building+%E2%86%92+Solving+%E2%86%92+Growing" />
-
 <br/><br/>
 
 > ### "Don't just learn the technology. Build something with it."
-
 </div>
 
 <table>
